@@ -15,3 +15,9 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+|      | NR1 | NR2 | NR3 | NR4 | NR5 |
+| ---- |:---:|:---:|:---:|:---:| ---:|
+| ERP  |  P  |  P  |  F  |  F  |  P  |
+| DAT  |  P  |  P  |  P  |  P  |  P  |
+
