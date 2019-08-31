@@ -18,6 +18,6 @@ The second paragraph text
 
 |      | NR1 | NR2 | NR3 | NR4 | NR5 |
 | ---- |:---:|:---:|:---:|:---:|:---:|
-| ERP  |  P  |  P  |  F  |  F  |  P  |
+| ERP  |  P  |  P  |  **_F_**  |  **_F_**  |  P  |
 | DAT  |  P  |  P  |  P  |  P  |  P  |
 
